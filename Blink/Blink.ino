@@ -9,5 +9,5 @@ void loop() {
   digitalWrite(8, HIGH); //turn the LED on (HIGH id the voltage level)
   delay(1000);            //wait for a second
   digitalWrite(8, LOW);  //turn the LED off
-  delay(1000);            //wait for a seond
+  delay(500);            //wait for a seond
 }

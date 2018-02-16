@@ -1,4 +1,4 @@
-int btnState = 0;
+int buttonState = 0;
 
 void setup() {
   // put your setup code here, to run once:
