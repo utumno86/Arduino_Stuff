@@ -10,7 +10,7 @@ void loop() {
   float voltage = sensorValue * (5.0 / 1023.0);
 
   Serial.print(sensorValue);
-  Serial.print(",');
+  Serial.print(",");
 
   Serial.println(voltage/0.1);
   delay(100);
